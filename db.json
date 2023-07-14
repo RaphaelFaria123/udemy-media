@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Lloyd Mohr",
+      "id": 2
+    },
+    {
+      "name": "Ebony Kunde III",
+      "id": 3
+    },
+    {
+      "name": "Meredith Reinger",
+      "id": 4
+    },
+    {
+      "name": "Mr. Darren Bruen",
+      "id": 5
+    },
+    {
+      "name": "Julia Carter",
+      "id": 6
+    },
+    {
+      "name": "Verna McCullough",
+      "id": 7
+    },
+    {
+      "name": "Wilfred Pfeffer-Wisoky",
+      "id": 8
+    },
+    {
+      "name": "Stuart Collins",
+      "id": 9
+    },
+    {
+      "name": "Jean Cummerata",
+      "id": 10
+    },
+    {
+      "name": "Velma Kulas DDS",
+      "id": 11
+    },
+    {
+      "name": "Doug Dietrich-Heller Sr.",
+      "id": 12
+    },
+    {
+      "name": "Luz Murazik",
+      "id": 13
+    },
+    {
+      "name": "Kayla Kub Sr.",
+      "id": 14
+    },
+    {
+      "name": "Courtney Effertz PhD",
+      "id": 15
+    },
+    {
+      "name": "Erica Reinger",
+      "id": 16
+    },
+    {
+      "name": "Stella Murray",
+      "id": 17
+    },
+    {
+      "name": "Dr. Tommie Deckow",
+      "id": 18
+    },
+    {
+      "name": "Kelvin Pagac",
+      "id": 19
+    },
+    {
+      "name": "Lucille Simonis",
+      "id": 20
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
