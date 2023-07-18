@@ -1,86 +1,103 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Lloyd Mohr",
-      "id": 2
-    },
-    {
-      "name": "Ebony Kunde III",
-      "id": 3
-    },
-    {
-      "name": "Meredith Reinger",
-      "id": 4
-    },
-    {
       "name": "Mr. Darren Bruen",
       "id": 5
     },
     {
-      "name": "Julia Carter",
-      "id": 6
-    },
-    {
-      "name": "Verna McCullough",
+      "name": "Wayne Abbott",
       "id": 7
     },
     {
-      "name": "Wilfred Pfeffer-Wisoky",
+      "name": "Faye Treutel",
       "id": 8
     },
     {
-      "name": "Stuart Collins",
+      "name": "Gilbert Jenkins",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "adsffds",
+      "userId": 5
+    },
+    {
+      "title": "Recycled Plastic Mouse",
+      "userId": 5,
+      "id": 2
+    },
+    {
+      "title": "Gorgeous Bronze Sausages",
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "title": "Gorgeous Rubber Table",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "title": "Gorgeous Rubber Soap",
+      "userId": 5,
+      "id": 5
+    },
+    {
+      "title": "Tasty Frozen Shoes",
+      "userId": 5,
+      "id": 6
+    },
+    {
+      "title": "Intelligent Frozen Pants",
+      "userId": 5,
+      "id": 7
+    },
+    {
+      "title": "Refined Rubber Chicken",
+      "userId": 7,
+      "id": 8
+    },
+    {
+      "title": "Small Frozen Chips",
+      "userId": 7,
       "id": 9
     },
     {
-      "name": "Jean Cummerata",
+      "title": "Modern Steel Shirt",
+      "userId": 7,
       "id": 10
     },
     {
-      "name": "Velma Kulas DDS",
+      "title": "Elegant Plastic Shirt",
+      "userId": 7,
       "id": 11
     },
     {
-      "name": "Doug Dietrich-Heller Sr.",
+      "title": "Generic Steel Hat",
+      "userId": 7,
       "id": 12
     },
     {
-      "name": "Luz Murazik",
+      "title": "Tasty Plastic Tuna",
+      "userId": 7,
       "id": 13
     },
     {
-      "name": "Kayla Kub Sr.",
+      "title": "Tasty Granite Keyboard",
+      "userId": 8,
       "id": 14
     },
     {
-      "name": "Courtney Effertz PhD",
+      "title": "Sleek Frozen Towels",
+      "userId": 8,
       "id": 15
     },
     {
-      "name": "Erica Reinger",
+      "title": "Bespoke Concrete Soap",
+      "userId": 8,
       "id": 16
-    },
-    {
-      "name": "Stella Murray",
-      "id": 17
-    },
-    {
-      "name": "Dr. Tommie Deckow",
-      "id": 18
-    },
-    {
-      "name": "Kelvin Pagac",
-      "id": 19
-    },
-    {
-      "name": "Lucille Simonis",
-      "id": 20
     }
   ],
-  "albums": [],
   "photos": []
 }

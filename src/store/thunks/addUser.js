@@ -8,7 +8,6 @@ const addUser = createAsyncThunk('users/add', async () => {
         name: name
     });
 
-    console.log(response.data);
     return response.data;
 });
 
