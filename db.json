@@ -15,68 +15,22 @@
     {
       "name": "Gilbert Jenkins",
       "id": 9
+    },
+    {
+      "name": "Erma Hagenes",
+      "id": 10
     }
   ],
   "albums": [
-    {
-      "id": 1,
-      "title": "adsffds",
-      "userId": 5
-    },
-    {
-      "title": "Recycled Plastic Mouse",
-      "userId": 5,
-      "id": 2
-    },
-    {
-      "title": "Gorgeous Bronze Sausages",
-      "userId": 5,
-      "id": 3
-    },
-    {
-      "title": "Gorgeous Rubber Table",
-      "userId": 5,
-      "id": 4
-    },
-    {
-      "title": "Gorgeous Rubber Soap",
-      "userId": 5,
-      "id": 5
-    },
-    {
-      "title": "Tasty Frozen Shoes",
-      "userId": 5,
-      "id": 6
-    },
-    {
-      "title": "Intelligent Frozen Pants",
-      "userId": 5,
-      "id": 7
-    },
     {
       "title": "Refined Rubber Chicken",
       "userId": 7,
       "id": 8
     },
     {
-      "title": "Small Frozen Chips",
-      "userId": 7,
-      "id": 9
-    },
-    {
-      "title": "Modern Steel Shirt",
-      "userId": 7,
-      "id": 10
-    },
-    {
       "title": "Elegant Plastic Shirt",
       "userId": 7,
       "id": 11
-    },
-    {
-      "title": "Generic Steel Hat",
-      "userId": 7,
-      "id": 12
     },
     {
       "title": "Tasty Plastic Tuna",
@@ -97,6 +51,41 @@
       "title": "Bespoke Concrete Soap",
       "userId": 8,
       "id": 16
+    },
+    {
+      "title": "Recycled Rubber Keyboard",
+      "userId": 8,
+      "id": 24
+    },
+    {
+      "title": "Recycled Rubber Bacon",
+      "userId": 9,
+      "id": 25
+    },
+    {
+      "title": "Handcrafted Soft Chicken",
+      "userId": 8,
+      "id": 26
+    },
+    {
+      "title": "Elegant Bronze Salad",
+      "userId": 8,
+      "id": 27
+    },
+    {
+      "title": "Rustic Soft Chips",
+      "userId": 8,
+      "id": 28
+    },
+    {
+      "title": "Modern Soft Salad",
+      "userId": 5,
+      "id": 31
+    },
+    {
+      "title": "Practical Steel Ball",
+      "userId": 5,
+      "id": 32
     }
   ],
   "photos": []
