@@ -88,5 +88,16 @@
       "id": 32
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 31,
+      "url": "https://picsum.photos/seed/Gc1QFt/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 31,
+      "url": "https://picsum.photos/seed/5DfOGpb4U/640/480",
+      "id": 2
+    }
+  ]
 }

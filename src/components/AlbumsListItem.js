@@ -2,6 +2,7 @@ import { useDeleteAlbumMutation } from "../store";
 import ExpandablePanel from "./ExpandablePanel";
 import Button from "./Button";
 import { GiTrashCan } from "react-icons/gi";
+import PhotosList from "./PhotosList";
 
 function AlbumsListItem({ album }) {
     const [doDeleteAlbum, { isLoading: isDeletingAlbum }] = useDeleteAlbumMutation();
@@ -17,7 +18,7 @@ function AlbumsListItem({ album }) {
 
     return <div>
         <ExpandablePanel key={album.id} header={header}>
-            List of photos in the album
+            <PhotosList album={album} />
         </ExpandablePanel>
     </div>;
 }
